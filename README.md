@@ -11,9 +11,6 @@
 💬 Ask me about data cleaning, basic analysis, and turning data into insights  
 
 ⚡ Fun fact: I enjoy finding patterns in data and applying them to solve everyday problems
-```
-
-
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ziwe_ke) 
