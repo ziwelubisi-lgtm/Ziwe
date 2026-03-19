@@ -1,5 +1,19 @@
-# 💫 About Me:
- I’m currently working on Data Analysis<br>I’m looking to collaborate on Projects, Dashboards & Business Insight<br> I’m looking for help with improving technical skills<br>I’m currently learning SQL, Data Visualisation & Advanced Excel<br>Ask me about data cleaning & basic analysis <br>Fun fact: I am OCD - I hope you know what that means in the data world
+Here’s a clean, filled-out version you can use for your GitHub profile:
+
+```markdown
+🔭 I’m currently working on building my skills in Data Analytics and real-world projects  
+
+👯 I’m looking to collaborate on data analysis projects, dashboards, and business insights  
+
+🤝 I’m looking for help with improving my technical skills and gaining industry experience  
+
+🌱 I’m currently learning data visualization tools, SQL, and advanced Excel  
+
+💬 Ask me about data cleaning, basic analysis, and turning data into insights  
+
+⚡ Fun fact: I enjoy finding patterns in data and applying them to solve everyday problems
+```
+
 
 
 ## 🌐 Socials:
