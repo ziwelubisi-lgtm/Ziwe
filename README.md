@@ -1,6 +1,5 @@
-Here’s a clean, filled-out version you can use for your GitHub profile:
 
-```markdown
+## About Me 😍:
 🔭 I’m currently working on building my skills in Data Analytics and real-world projects  
 
 👯 I’m looking to collaborate on data analysis projects, dashboards, and business insights  
